@@ -1,0 +1,6 @@
+HP@Akash MINGW64 
+$  /c/Users/HP/fruit_game/Scripts/python.exe -c "import cv2, mediapipe; print('OK')"
+OK
+(fruit_game)
+HP@Akash MINGW64
+$  /c/Users/HP/fruit_game/Scripts/python.exe main.py
